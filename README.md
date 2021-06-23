@@ -20,7 +20,7 @@ This application is used to assist users to use features such as search, weather
 Main features and usage:
 1. Greetings
 2. Ask the assistant's name and make the assistant remember your name
-3. Ask Time: Say "mennyi az idő" or "mondd el az időt" or "mennyi az idő most.
+3. Ask Time: Say "mennyi az idő" or "mondd el az időt" or "mennyi az idő most".
 4. Search Google or Youtube:
   - Say "keres" + thing you want to search, google result will open on your default browser.
   - Say "youtube" + thing you want to search, youtube result will open on your default browser.
